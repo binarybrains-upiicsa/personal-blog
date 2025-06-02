@@ -37,6 +37,7 @@ Puedes implementar autenticación básica para la sección de administración. P
 ## Soluciones de base de datos
 |Equipo|Repositorio|
 |-------|-----------|
+|Mentores|<a href="https://github.com/untalbry/blog-db">Repositorio</a>|
 
 ## Soluciones de backend
 |Equipo|Repositorio|
