@@ -43,6 +43,7 @@ Puedes implementar autenticación básica para la sección de administración. P
 ## Soluciones de backend
 |Equipo|Repositorio|
 |-------|-----------|
+| Mentores|<a href="https://github.com/untalbry/personal-blog-api">Repositorio</a> |
 
 ## Soluciones de frontend
 |Equipo|Repositorio| Figma |
