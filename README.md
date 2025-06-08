@@ -48,3 +48,4 @@ Puedes implementar autenticación básica para la sección de administración. P
 ## Soluciones de frontend
 |Equipo|Repositorio| Figma |
 |-------|-----------|------|
+|Mentores|<a href="https://github.com/EGAMAGZ/personal-blog-front">Repositorio</a>| Aun no |
