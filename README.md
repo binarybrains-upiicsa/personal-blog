@@ -39,6 +39,7 @@ Puedes implementar autenticación básica para la sección de administración. P
 |-------|-----------|
 |Mentores|<a href="https://github.com/untalbry/blog-db">Repositorio</a>|
 |    2   |<a href="https://github.com/LuisxD14/PersonalBlogBD">Repositorio</a>|
+|    1   |<a href="https://github.com/Kai-Yazumorito/PB_team-1.git">Repositorio</a>|
 
 ## Soluciones de backend
 |Equipo|Repositorio|
