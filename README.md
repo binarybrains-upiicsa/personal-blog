@@ -46,6 +46,7 @@ Puedes implementar autenticación básica para la sección de administración. P
 |-------|-----------|
 | Mentores|<a href="https://github.com/untalbry/personal-blog-api">Repositorio</a> |
 |   2   |<a href="https://github.com/LuisxD14/Personal-Blog-API">Repositorio</a> |
+|   1   |<a href="https://github.com/Kai-Yazumorito/PB_team-1.git">Repositorio</a>|
 
 ## Soluciones de frontend
 |Equipo|Repositorio| Figma |
